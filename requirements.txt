@@ -1,0 +1,6 @@
+matplotlib==3.10.0
+numpy==2.0.2
+pillow==11.2.1
+requests==2.32.3
+torch @ https://download.pytorch.org/whl/cu124/torch-2.6.0%2Bcu124-cp311-cp311-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cu124/torchvision-0.21.0%2Bcu124-cp311-cp311-linux_x86_64.whl
